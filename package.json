@@ -1,0 +1,33 @@
+{
+  "name": "entrega-solana",
+  "version": "1.0.0",
+  "description": "Ejercitación 6 - Desarrollo de Software para Blockchain - Cursada 2025",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eseoxalde/entrega-Solana.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eseoxalde/entrega-Solana/issues"
+  },
+  "homepage": "https://github.com/eseoxalde/entrega-Solana#readme",
+  "dependencies": {
+    "@solana/web3.js": "^1.98.4"
+  },
+  "devDependencies": {
+    "@types/mocha": "^10.0.10",
+    "@types/node": "^25.0.9",
+    "mocha": "^11.7.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}

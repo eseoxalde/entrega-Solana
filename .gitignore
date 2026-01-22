@@ -1,0 +1,21 @@
+```gitignore
+# Node
+node_modules/
+npm-debug.log
+
+# Rust
+target/
+Cargo.lock
+
+# Solana / Anchor
+.anchor/
+test-ledger/
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+*.swp
+*.tmp
